@@ -6,6 +6,8 @@
 
 </p>
 
+create by : Rafi
+
 ## 👇COMMAND👇
 
 rm -rf AUTO-SHARE
